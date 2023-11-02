@@ -1,0 +1,11 @@
+#N60 #W6D7
+
+N60-HT1
+
+- file explorer dasturiga fayllar, dokumentlar va kodni filterlar keltiruvchi endpoint qo'shing
+- bu endpoint api/files deb nomlangan bo'lsin, buning uchun StorageFileFilterModel fliter uchun maxsus modeldan foydalanishingiz mumkin
+- bu narsa frontda ham ishlashligi uchun frontendni update qilib qo'yaman
+
+class
+
+20.10.2023 #hometask
