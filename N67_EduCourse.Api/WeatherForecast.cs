@@ -1,4 +1,4 @@
-namespace EduCourse.Api;
+namespace N67_EduCourse.Api;
 
 public class WeatherForecast
 {

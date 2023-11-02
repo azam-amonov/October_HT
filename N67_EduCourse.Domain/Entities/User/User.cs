@@ -1,6 +1,6 @@
-using EduCourse.Domain.Enums;
+using N67_EduCourse.Domain.Enums;
 
-namespace EduCourse.Domain.Entities.User;
+namespace N67_EduCourse.Domain.Entities.User;
 
 public class User
 {

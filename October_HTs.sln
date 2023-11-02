@@ -40,15 +40,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task_N69", "Task_N69", "{1E
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task_N70", "Task_N70", "{09917518-1230-4BCA-A853-71D3982CDC6C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduCourse.Domain", "EduCourse.Domain\EduCourse.Domain.csproj", "{CDA5691E-E98B-44CE-B252-61E329113B78}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N67_EduCourse.Domain", "N67_EduCourse.Domain\N67_EduCourse.Domain.csproj", "{CDA5691E-E98B-44CE-B252-61E329113B78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduCourse.Application", "EduCourse.Application\EduCourse.Application.csproj", "{7B77598F-DF5C-42A7-99E4-6F533FFCA899}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N67_EduCourse.Application", "N67_EduCourse.Application\N67_EduCourse.Application.csproj", "{7B77598F-DF5C-42A7-99E4-6F533FFCA899}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduCourse.Persistence", "EduCourse.Persistence\EduCourse.Persistence.csproj", "{54C3D42C-672A-4274-B954-D0519AB00245}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N67_EduCourse.Persistence", "N67_EduCourse.Persistence\N67_EduCourse.Persistence.csproj", "{54C3D42C-672A-4274-B954-D0519AB00245}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduCourse.Infrastructure", "EduCourse.Infrastructure\EduCourse.Infrastructure.csproj", "{B79D273C-A870-4B9C-81D0-DE71B411D736}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N67_EduCourse.Infrastructure", "N67_EduCourse.Infrastructure\N67_EduCourse.Infrastructure.csproj", "{B79D273C-A870-4B9C-81D0-DE71B411D736}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduCourse.Api", "EduCourse.Api\EduCourse.Api.csproj", "{E897BEDD-6033-4C02-A24A-47BCDB6BEFAF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N67_EduCourse.Api", "N67_EduCourse.Api\N67_EduCourse.Api.csproj", "{E897BEDD-6033-4C02-A24A-47BCDB6BEFAF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N51-HT1", "N51-HT1\N51-HT1.csproj", "{6899BD67-AED5-4F59-B595-B1D88D52B681}"
 EndProject

@@ -1,4 +1,4 @@
-namespace EduCourse.Domain.Enums;
+namespace N67_EduCourse.Domain.Enums;
 
 public enum UserRole
 {
