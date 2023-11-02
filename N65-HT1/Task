@@ -1,0 +1,12 @@
+#N65 #W6D8
+
+N65-HT1
+
+- Identity infrrastrukturasiga verifikatsiya jarayonini qo'shish
+- bunda VerificationTokenGeneratorService asosiy verifikatsiyada ishlaydigan tokenni generate qilish uchun ishlatiladi
+- tokenni qabul qilib verifikatsiya qilish uchun AccountController da api/account/verificatoin endpointidan foydalanish mumkin
+- verification tokenni jo'natish uchun Email jo'natadigan servicedan foydalanish kerak bo'ladi
+
+class
+
+27.10.2023 #hometask

@@ -1,0 +1,11 @@
+#N64 #W6D8
+
+N64-HT1
+
+- Identity infrastrukturasini qaytadan 0 dan yozib ko'rish
+- JWT TokenGenerator va JWT auth middleware identityni qismi
+- AuthService, AuthController asosiy logikalarni tashkil qiladigan servicelar 
+
+class
+
+26.10.2023 #hometask

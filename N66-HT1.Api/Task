@@ -1,0 +1,15 @@
+#N66 #W6D8
+
+N66-HT1
+
+- Kutuubxona uchun web API yarating
+- unda asosiy modellar Book va Author bo'ladi
+- bunda EF core va postgres database dan foydalanadi
+- modellar o'rtasidagi relationni yarating
+- servicelardan va seed datadan foydalaning
+- ikkala entity uchun alohida controllerlardan va CRUD operatsiyalari uchun alohida endpointlardan foydalaning
+- web API da book va authorlar uchun CRUD qilish operatsiyalarini to'liq implementatsiya qiling
+
+class
+
+30.10.2023 #hometask
