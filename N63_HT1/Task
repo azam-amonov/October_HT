@@ -1,0 +1,21 @@
+#N63 #W6D8
+
+N63-HT1
+
+- file upload uchun bitta web api project oching
+- unda authentication uchun kerak bo'ladigan barcha infrastrukturani qo'shing ( modellar, service, controller )
+- file upload qilish uchun api/files/upload endpointi uchun FilesController yarating
+- FilesService yarating, bu service berilgan Stream ni userId si bo'yicha saqlasin
+- buning uchun StorageFileService ham yarating - bu service fayl Id si, fayl asl nomi, yuklangan paytdagi, kimga tegishli ekanligini saqlaydigan entity uchun foundation service bo'ladi
+
+demak
+
+- FilesController -> FilesService ga stream ni uzatadi ( bunda controller ichida bitta file stream ochib service ga berib yuboring, File.Open bilan )
+- FileService -> StorageFileService ga entity ni yozib qo'yish uchun berib yuboradi
+- FileService yangi fayl uchun stream ochib shu stream ga parameterda berilgan streamni ko'chiradi
+
+Bunda fayl saqlandigan path wwwroot/Users/{{UserId}}/Profile/{{FileId}} ga yozilishi kerak, bu pathni external configuration ga saqlashingiz kerak bo'ladi va har bitta fayl upload qilinganda shu pathni replace orqali kerakli relative path ga o'girasiz
+
+class
+
+25.10.2023 #hometask
