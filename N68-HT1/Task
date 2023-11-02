@@ -1,0 +1,12 @@
+#N68 #W6D8
+
+N68-HT1
+
+- EduCourse dasturimizga Location relationshipini qo'shing
+- bu foydalanuvchi va uning manzili bo'ladi
+- Location self-referencing table bo'lib, unda Country va City saqlanadi
+- User modelida esa CityId foreign Key bo'ladi
+
+class
+
+1.11.2023 #hometask
